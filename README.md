@@ -1,6 +1,6 @@
-# Gaby Social Media
+# iNeedSocial
 
-Aplikasi simulasi media sosial berbasis web untuk keperluan penelitian (*social media study app*). Dibangun dengan React + TypeScript + Vite, mendukung PWA, dan dapat dijalankan sepenuhnya secara lokal tanpa backend.
+Aplikasi simulasi media sosial berbasis web untuk keperluan penelitian "latency test". Dibangun dengan React + TypeScript + Vite, mendukung PWA, dan dapat dijalankan sepenuhnya secara lokal tanpa backend.
 
 ---
 
