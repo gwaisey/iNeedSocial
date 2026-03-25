@@ -1,0 +1,95 @@
+{
+  "heroSlides": [
+    {
+      "id": "hero-1",
+      "src": "/content/files/ac3a334bfd5c05754469e2badc691602fed7a503.jpg",
+      "alt": "Cafe dessert table"
+    },
+    {
+      "id": "hero-2",
+      "src": "/content/files/df5eb88030663e94311f32225c8c360bceff45bc.jpg",
+      "alt": "Studio Ghibli records"
+    },
+    {
+      "id": "hero-3",
+      "src": "/content/files/39466ff454cbcbfae3eabae6a532d17bbd6fe389.jpg",
+      "alt": "Friends wearing cartoon face masks"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-snoopy",
+      "type": "image",
+      "username": "bq_bb",
+      "likes": "1.234",
+      "caption": "Baca buku di hari Minggu itu terasa mewah ✨",
+      "media": [
+        {
+          "src": "/content/files/d635ad5c910cd925e4fb05d04efe8c5051f60a6e.jpg",
+          "alt": "Snoopy reading outside"
+        }
+      ]
+    },
+    {
+      "id": "post-cat",
+      "type": "image",
+      "username": "miau_miau",
+      "likes": "567",
+      "caption": "Monday face 😐❄️",
+      "media": [
+        {
+          "src": "/content/files/99d8f100c9fccf7b3f48d55774d80449bb45b968.jpg",
+          "alt": "Cat in snow"
+        }
+      ]
+    },
+    {
+      "id": "post-carousel",
+      "type": "carousel",
+      "username": "lifestyle.id",
+      "likes": "3.456",
+      "caption": "Swipe untuk lihat semua koleksi musim ini 👉",
+      "media": [
+        {
+          "src": "/content/files/ac3a334bfd5c05754469e2badc691602fed7a503.jpg",
+          "alt": "Cafe dessert table"
+        },
+        {
+          "src": "/content/files/df5eb88030663e94311f32225c8c360bceff45bc.jpg",
+          "alt": "Studio Ghibli records"
+        },
+        {
+          "src": "/content/files/39466ff454cbcbfae3eabae6a532d17bbd6fe389.jpg",
+          "alt": "Friends wearing cartoon face masks"
+        }
+      ]
+    },
+    {
+      "id": "post-barbie",
+      "type": "image",
+      "username": "film_buffs",
+      "likes": "8.901",
+      "caption": "This is fine. 🔥",
+      "media": [
+        {
+          "src": "/content/files/cdca5cc111713da8f739578616f10aa55e7a67f6.jpg",
+          "alt": "Barbie in front of a fire"
+        }
+      ]
+    },
+    {
+      "id": "post-video-sample",
+      "type": "video",
+      "username": "creator.id",
+      "likes": "12.345",
+      "caption": "Taruh file video kamu di /content/videos/ lalu update src di sini 🎬",
+      "media": [
+        {
+          "src": "/content/videos/sample.mp4",
+          "alt": "Sample video",
+          "poster": "/content/files/39466ff454cbcbfae3eabae6a532d17bbd6fe389.jpg"
+        }
+      ]
+    }
+  ]
+}

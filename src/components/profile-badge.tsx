@@ -8,11 +8,11 @@ interface ProfileBadgeProps {
 export function ProfileBadge({ isDark, username = "123", hasStory = false }: ProfileBadgeProps) {
   const initials =
     username
-      .replaceAll(/[^a-zA-Z0-9]/g, " ")
+      .replace(/[^a-zA-Z0-9]/g, " ")
       .trim()
       .split(/\s+/)
       .slice(0, 2)
-      .map((w) => w[0]?.toUpperCase() ?? "")
+      .map((w: string) => w[0]?.toUpperCase() ?? "")
       .join("") || "G"
 
   const ringOffset = isDark ? "ring-offset-dusk" : "ring-offset-white"
